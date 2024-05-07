@@ -428,8 +428,8 @@ public class ArcadeCar : MonoBehaviour
 
     void UpdateInput()
     {
-        float v = Input.GetAxis("Vertical");
-        float h = Input.GetAxis("Horizontal");
+        float v = SimpleInput.GetAxis("Vertical");
+        float h = SimpleInput.GetAxis("Horizontal");
         //Debug.Log (string.Format ("H = {0}", h));
 
         if (!controllable)
@@ -484,10 +484,10 @@ public class ArcadeCar : MonoBehaviour
                 Reset(new Vector3(-69.48f, 5.25f, 132.71f));
             }
         }
-
-
+         
+       
         bool isBrakeNow = false;
-        bool isHandBrakeNow = Input.GetKey(KeyCode.Space) && controllable;
+        bool isHandBrakeNow = SimpleInput.GetKey(KeyCode.Space) && controllable;
 
         float speed = GetSpeed();
         isAcceleration = false;
