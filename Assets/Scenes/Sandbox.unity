@@ -41224,6 +41224,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: SteeringWheel
       objectReference: {fileID: 0}
+    - target: {fileID: 114646804193482684, guid: 5fe76d8874b5ab349a260c69ea0dece9,
+        type: 3}
+      propertyPath: valueMultiplier
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 114646804193482684, guid: 5fe76d8874b5ab349a260c69ea0dece9,
+        type: 3}
+      propertyPath: wheelReleasedSpeed
+      value: 500
+      objectReference: {fileID: 0}
     - target: {fileID: 224650763690852736, guid: 5fe76d8874b5ab349a260c69ea0dece9,
         type: 3}
       propertyPath: m_Pivot.x
@@ -41312,7 +41322,7 @@ PrefabInstance:
     - target: {fileID: 224650763690852736, guid: 5fe76d8874b5ab349a260c69ea0dece9,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 9.22
+      value: -65.9
       objectReference: {fileID: 0}
     - target: {fileID: 224650763690852736, guid: 5fe76d8874b5ab349a260c69ea0dece9,
         type: 3}

@@ -46,9 +46,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 642.4
+    x: 690.4
     y: 73.6
-    width: 487.59998
+    width: 344.40002
     height: 404.6
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -63,12 +63,12 @@ MonoBehaviour:
   m_SerializedViewNames:
   - UnityEditor.GameView
   m_SerializedViewValues:
-  - C:\Users\Mukul\Documents\GitHub\CredenceLearn\ArcadeCarPhysics\Library\PlayModeViewStates\892e1d0a753477644ac287be6cab5353
+  - C:\Users\Mukul\Documents\GitHub\CredenceLearn\ArcadeCarPhysics\Library\PlayModeViewStates\524ceae3dc633504fa6c4379fe559390
   m_PlayModeViewName: Device Simulator
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 1}
-  m_TargetSize: {x: 2048, y: 1536}
+  m_TargetSize: {x: 2338, y: 1080}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -84,11 +84,11 @@ MonoBehaviour:
     - UnityEditor.DeviceSimulation.ApplicationSettingsPlugin
     pluginStates:
     - '{}'
-    scale: 22
+    scale: 17
     fitToScreenEnabled: 0
     rotationDegree: 270
     highlightSafeAreaEnabled: 0
-    friendlyName: Apple iPad Mini 4
+    friendlyName: Apple iPhone 12 mini
     screenIndex: 0
     networkReachability: 1
     systemLanguage: 10
@@ -111,7 +111,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1132
+    width: 1036.8
     height: 722.8
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
@@ -137,7 +137,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1132
+    width: 1036.8
     height: 425.6
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
@@ -160,7 +160,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 316.8
+    width: 279.2
     height: 425.6
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -192,7 +192,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73.6
-    width: 315.8
+    width: 278.2
     height: 404.6
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -206,24 +206,24 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 7840.4}
-      m_SelectedIDs: 1edefdff
-      m_LastClickedID: -139746
-      m_ExpandedIDs: 8ed7fdffb00efeff5e0ffeff0834ffff6c34ffffcc36ffff24850000
+      scrollPos: {x: 0, y: 7696.4}
+      m_SelectedIDs: 5c6c0400
+      m_LastClickedID: 289884
+      m_ExpandedIDs: 7a62fdffe664fdff4865fdff966bfdff868afdfff28cfdff608dfdffbe93fdff48a6fdff8ed7fdffb00efeff5e0ffeff0834ffff6c34ffffcc36ffff24850000eaba0300a2bc03006e600400
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: MuscleCar
+        m_OriginalName: MuscleCar
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 245502
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -248,9 +248,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 316.8
+    x: 279.2
     y: 0
-    width: 325.60004
+    width: 411.2
     height: 425.6
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -280,9 +280,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 316.80002
+    x: 279.2
     y: 73.6
-    width: 323.60004
+    width: 409.2
     height: 404.6
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -298,8 +298,8 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: -154.39996, y: -26.399994}
-      snapOffsetDelta: {x: -0.000030517578, y: 0}
+      snapOffset: {x: -154.4, y: -26.399994}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
       id: Tool Settings
       index: 0
@@ -637,14 +637,14 @@ MonoBehaviour:
   m_OverrideSceneCullingMask: 6917529027641081856
   m_SceneIsLit: 1
   m_SceneLighting: 1
-  m_2DMode: 1
+  m_2DMode: 0
   m_isRotationLocked: 0
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1950.942, y: 454.35373, z: 0}
+    m_Target: {x: 1862.0964, y: 561.06494, z: 0}
     speed: 2
-    m_Value: {x: 1950.942, y: 454.35373, z: 0}
+    m_Value: {x: 1862.0963, y: 561.0649, z: 0.000007912347}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -672,15 +672,15 @@ MonoBehaviour:
       m_Size: {x: 0, y: 0}
     yGrid:
       m_Fade:
-        m_Target: 0
+        m_Target: 1
         speed: 2
-        m_Value: 0
+        m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
     zGrid:
       m_Fade:
-        m_Target: 1
+        m_Target: 0
         speed: 2
         m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
@@ -690,17 +690,17 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0, w: 1}
+    m_Value: {x: 0.087172285, y: -0.8995905, z: 0.21045253, w: 0.37262264}
   m_Size:
-    m_Target: 437.46823
+    m_Target: 403.88214
     speed: 2
-    m_Value: 437.46823
+    m_Value: 403.8821
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
-    m_Value: 1
+    m_Value: 0
   m_CameraSettings:
     m_Speed: 1
     m_SpeedNormalized: 0.5
@@ -714,7 +714,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: -0.1393545, y: 0.0020763783, z: -0.00029216154, w: -0.9902421}
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -736,9 +736,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 642.4
+    x: 690.4
     y: 0
-    width: 489.59998
+    width: 346.40002
     height: 425.6
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -764,7 +764,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 425.6
-    width: 1132
+    width: 1036.8
     height: 297.19998
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
@@ -797,7 +797,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 499.2
-    width: 1131
+    width: 1035.8
     height: 276.19998
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -820,7 +820,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Plugins/SimpleInput/Prefabs
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -828,15 +828,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Plugins/SimpleInput/Prefabs
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Mukul\Documents\GitHub\CredenceLearn\ArcadeCarPhysics
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 31}
-    m_SelectedIDs: 26c30000
-    m_LastClickedID: 49958
+    m_SelectedIDs: b6400000
+    m_LastClickedID: 16566
     m_ExpandedIDs: 00000000b64000000ec3000012c3000016c30000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -890,8 +890,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 1edefdff
-    m_LastClickedInstanceID: -139746
+    m_SelectedInstanceIDs: 5c6c0400
+    m_LastClickedInstanceID: 289884
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
@@ -944,7 +944,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 499.2
-    width: 1131
+    width: 1171.8
     height: 276.19998
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -971,12 +971,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1132
+    x: 1036.8
     y: 0
-    width: 404
+    width: 499.19995
     height: 722.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -1003,9 +1003,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1132
+    x: 1036.8
     y: 73.6
-    width: 403
+    width: 498.19995
     height: 701.8
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1024,7 +1024,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 54
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
